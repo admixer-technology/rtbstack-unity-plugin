@@ -1,0 +1,6 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <engine:Button text="Show Banner" name="showBanner" style="width: auto;" />
+    <engine:Button text="Show Interstitial" name="showInterstitial" />
+    <engine:Button text="Show Native" name="showNative" style="width: auto; text-overflow: clip; -unity-text-align: middle-center; align-self: auto;" />
+    <engine:Button text="Show Rewarded" name="showRewarded" />
+</engine:UXML>

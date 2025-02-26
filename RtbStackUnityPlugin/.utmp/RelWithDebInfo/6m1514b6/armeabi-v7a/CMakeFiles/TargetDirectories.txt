@@ -1,0 +1,5 @@
+I:/Unity/rtbstack-unity-plugin/RtbStackUnityPlugin/.utmp/RelWithDebInfo/6m1514b6/armeabi-v7a/CMakeFiles/edit_cache.dir
+I:/Unity/rtbstack-unity-plugin/RtbStackUnityPlugin/.utmp/RelWithDebInfo/6m1514b6/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+I:/Unity/rtbstack-unity-plugin/RtbStackUnityPlugin/.utmp/RelWithDebInfo/6m1514b6/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+I:/Unity/rtbstack-unity-plugin/RtbStackUnityPlugin/.utmp/RelWithDebInfo/6m1514b6/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+I:/Unity/rtbstack-unity-plugin/RtbStackUnityPlugin/.utmp/RelWithDebInfo/6m1514b6/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir

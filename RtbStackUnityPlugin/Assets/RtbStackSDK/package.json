@@ -1,0 +1,8 @@
+{
+    "name": "com.rtb-stack.unity-sdk",
+    "version": "0.1",
+    "displayName": "Rtb Stack Unity SDK",
+    "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "13.0.2"
+   }
+  }
