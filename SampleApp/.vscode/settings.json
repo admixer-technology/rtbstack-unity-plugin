@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "RtbStackUnityPlugin.sln"
+    "dotnet.defaultSolution": "SampleApp.sln"
 }
